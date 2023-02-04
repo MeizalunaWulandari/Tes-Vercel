@@ -1,5 +1,7 @@
 body {
-  font-family: "Open Sans", shttps://source.unsplash.com/1200x400?keyboardhttps://source.unsplash.com/1200x400?Kitty") top center no-repeat;
+  font-family: "Open Sans", sans-serif;
+  color: #fff;
+  background: url("https://source.unsplash.com/1200x400?kitty") top center no-repeat;
   background-size: cover;
 /*  position: relative;*/
 }
